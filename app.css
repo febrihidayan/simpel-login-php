@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 700px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: whitesmoke;
+}
+
+nav .end {
+    margin-left: auto;
+}
+
+nav a {
+    padding: 1rem;
+}
+
+nav a:hover {
+    background-color: darkgrey;
+    color: white;
+}
+
+main {
+    padding: 2rem;
+}
+
+p {
+    padding-bottom: 1rem;
+}
